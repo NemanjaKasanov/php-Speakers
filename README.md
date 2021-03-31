@@ -5,4 +5,5 @@ PHP, JavaScript, jQuery, HTML5, CSS3, Bootstrap, PHPWord, PHPSpreadsheets, AJAX,
 
 http://praktikumphpspeakers.epizy.com/speakers/
 
-For more information see assets/documentation.pdf
+For more information see documentation
+https://github.com/NemanjaKasanov/php-Speakers/blob/master/assets/documentation.pdf
